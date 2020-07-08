@@ -22,9 +22,10 @@ The quartiles and the median show that women generally have a higher life expect
 
 ## Interactive Visualization
 
+Blue circles represent women and orange circles men. It may seem contradictory that life expectancy is higher for older people than for young people. However, someone who is 25 years old must be the same age as someone who is 80 before they can get any older.
+
 ![Interactive](img/Interactive.gif)
 
-Blue circles represent women and orange circles men. It may seem contradictory that life expectancy is higher for older people than for young people. However, someone who is 25 years old must be the same age as someone who is 80 before they can get any older.
 
 Data Sources: [Statistik Austria](http://www.statistik-austria.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/sterbetafeln/index.html)  
 
