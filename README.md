@@ -1,12 +1,11 @@
 # Life Expectancy Austria  2019
 
 Interactive visualization of life expectancy in Austria.  
+For interactive visualization, the notebook must be executed locally.
 
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thomashon/visualization-life-expectancy-austria-2019/master)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thomashon/visualization-life-expectancy-austria-2019/blob/master/visualization-life-expectancy-austria-2019.ipynb)
-
-For interactive visualization, the notebook must be executed locally.
 
 ## Mortality Distribution by Gender
 
